@@ -1,0 +1,10 @@
+.DS_Store
+.venv
+.ipynb_checkpoints
+.ipynb_checkpoints/
+.ipynb_checkpoints/
+.ipynb_checkpoints/
+
+gpt2-finetuned/
+cached_lm_GPT2Tokenizer_128_input.txt
+cached_lm_GPT2Tokenizer_128_input.txt.lock
