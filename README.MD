@@ -24,7 +24,7 @@ This project demonstrates a simple experiment in fine-tuning a language model (s
 
    ```bash
    git clone https://github.com/TamimDostyar/LLM-Training-SingleArticle.git
-   cd LLM-Practice
+   cd LLM-Training-SingleArticle
    ```
 
 2. **Install Dependencies:**
